@@ -1,0 +1,20 @@
+packages/libs/restate-sdk-gen/e2e/interrupt.e2e.test.ts
+  s_2299888bf53300::t_664a0afbcf3c77 49-50,53-54,56-57
+  s_2299888bf53300::t_2582567ca1eebc 430-436
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "6e24e8f3a171656e51a8ec25c3b7a2ee0e21426b",
+  "prompts": {},
+  "sessions": {
+    "s_2299888bf53300": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "bb921ca5-8ac4-451d-a25a-3ca2c45cdee9",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Nathan Standiford <nathan@ditto.ai>"
+    }
+  }
+}
