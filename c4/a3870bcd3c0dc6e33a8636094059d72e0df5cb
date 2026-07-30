@@ -1,0 +1,21 @@
+packages/libs/restate-sdk/src/endpoint/node_endpoint.ts
+  s_2299888bf53300::t_ddfaed550ad90b 22
+  s_2299888bf53300::t_e4851f74b75086 170
+  s_2299888bf53300::t_83c76414033830 169
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "c4a3870bcd3c0dc6e33a8636094059d72e0df5cb",
+  "prompts": {},
+  "sessions": {
+    "s_2299888bf53300": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "bb921ca5-8ac4-451d-a25a-3ca2c45cdee9",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": null
+    }
+  }
+}
