@@ -1,0 +1,19 @@
+packages/libs/restate-sdk/src/endpoint/node_endpoint.ts
+  s_2299888bf53300::t_8a1d73f9737c13 194
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "be2538903410e2065708bb38c757328fe59def0b",
+  "prompts": {},
+  "sessions": {
+    "s_2299888bf53300": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "bb921ca5-8ac4-451d-a25a-3ca2c45cdee9",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Nathan Standiford <nathan@ditto.ai>"
+    }
+  }
+}
